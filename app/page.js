@@ -102,30 +102,34 @@ export default function Home() {
         <h2 className="text-3xl font-bold mb-4">Projects</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div className="p-6 bg-gray-800 rounded-lg shadow-md hover:scale-105 hover:shadow-2xl hover:brightness-110 transition-transform">
-            <h3 className="text-xl font-semibold mb-2">Quizlet-Style Study App</h3>
-            <p className="text-gray-400">Led a team of 7+ developers to create an educational study application for students.</p>
+            <h3 className="text-xl font-semibold mb-2">Testy</h3>
+            <p className="text-gray-400">Led a team of 4+ developers to create an educational study application for students.</p>
           </div>
           <div className="p-6 bg-gray-800 rounded-lg shadow-md hover:scale-105 hover:shadow-2xl hover:brightness-110 transition-transform">
             <h3 className="text-xl font-semibold mb-2">AI Prompt Generator</h3>
             <p className="text-gray-400">Built an AI-driven tool for generating optimal prompts for text generation models.</p>
           </div>
           <div className="p-6 bg-gray-800 rounded-lg shadow-md hover:scale-105 hover:shadow-2xl hover:brightness-110 transition-transform">
-            <h3 className="text-xl font-semibold mb-2">World Guesser Bot</h3>
+            <h3 className="text-xl font-semibold mb-2">Wordle Guesser Bot</h3>
             <p className="text-gray-400">Designed and implemented an interactive solving bot that suggests optimal guesses for the game {'\"'}Worlde{'\"'}.</p>
           </div>
           <div className="p-6 bg-gray-800 rounded-lg shadow-md hover:scale-105 hover:shadow-2xl hover:brightness-110 transition-transform">
-            <h3 className="text-xl font-semibold mb-2">Pet Activity Monitor</h3>
+            <h3 className="text-xl font-semibold mb-2">Bandit.io</h3>
             <p className="text-gray-400">Developed a pet activity tracker, allowing pet owners to easily log and monitor pet meals in real-time.</p>
           </div>
           <div className="p-6 bg-gray-800 rounded-lg shadow-md hover:scale-105 hover:shadow-2xl hover:brightness-110 transition-transform">
-            <h3 className="text-xl font-semibold mb-2">2D Sandbox Survival Game</h3>
+            <h3 className="text-xl font-semibold mb-2">Iron Legend</h3>
             <p className="text-gray-400">Built a cooperative sandbox survival game where players explore, mine, craft, and battle in a procedurally generated underground world. Built using the 
               Godot game engine </p>
           </div>
           <div className="p-6 bg-gray-800 rounded-lg shadow-md hover:scale-105 hover:shadow-2xl hover:brightness-110 transition-transform">
+            <h3 className="text-xl font-semibold mb-2">PhishFall</h3>
+            <p className="text-gray-400">Designed and Developed an interactive dashboard to collect data and train individuals on cybersecurity threats.</p>
+          </div>
+          <div className="p-6 bg-gray-800 rounded-lg shadow-md hover:scale-105 hover:shadow-2xl hover:brightness-110 transition-transform">
             <h3 className="text-xl font-semibold mb-2">This Website!</h3>
-            <p className="text-gray-400">This portfolio webiste was built with Next.js and deployed via Github Pages. While it may be small {'(but mighty)'}, its the perfect
-              place to showcase my hobbies and accomplishments. Everything is up to date {'(as of 11/24)'}</p>
+            <p className="text-gray-400">This portfolio webiste was built with Next.js and deployed via Github Pages. While it may be small, its the perfect
+              place to showcase my hobbies and accomplishments. Everything is up to date {'(as of 11/24/24)'}</p>
           </div>
         </div>
       </section>
